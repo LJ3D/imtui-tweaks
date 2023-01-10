@@ -6,6 +6,7 @@
 
 // simply expose the existing Dear ImGui API
 #include "imgui/imgui.h"
+#include "imgui/imgui_internal.h"
 
 #include "imtui/imtui-impl-text.h"
 
