@@ -1,5 +1,10 @@
-imtui
+imtui-tweaks: a *very* slightly adjusted version of imtui
 =====
+### Current changes compared to main version:
+* inlcudes imgui_internal.h
+
+
+
 [![Actions Status](https://github.com/ggerganov/imtui/workflows/CI/badge.svg)](https://github.com/ggerganov/imtui/actions)
 [![ImTui v1.0.4 badge][changelog-badge]][changelog]
 [![Dear ImGui version badge][imgui-version-badge]](https://github.com/ocornut/imgui)
